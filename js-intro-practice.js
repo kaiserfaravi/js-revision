@@ -8,7 +8,9 @@
 // console.log(avg.toFixed(2));
 // ------------------
 //reminder
-let n = 119;
-let divider = 5;
-let rem = n%divider;
-console.log(rem);
+// let n = 119;
+// let divider = 5;
+// let rem = n%divider;
+// // console.log(rem);
+// let a = isNaN('t')
+// console.log(a);
